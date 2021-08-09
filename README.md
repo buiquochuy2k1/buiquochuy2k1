@@ -5,6 +5,8 @@
 ⚡ News: I coded a discord bot. It got verified by discord.
 
 Languages and Tools:
-![JavaScript](https://camo.githubusercontent.com/c255cd7f932c0a097f5798b0b54cee835b34b25070c06b93f087de0833a2ef15/68747470733a2f2f692e696d6775722e636f6d2f337531777a77452e706e67
-)
+[JavaScript] - [Node JS]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buiquochuy2k1&layout=compact)
+
 
