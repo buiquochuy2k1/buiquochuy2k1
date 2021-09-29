@@ -20,6 +20,12 @@
 <br />
 <br />
 
+![Profile Views](https://komarev.com/ghpvc/?username=buiquochuy2k1&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-283-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-13-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-1286-blueviolet)
+
+
+<hr>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=buiquochuy2k1&theme=dracula"></div>
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buiquochuy2k1&layout=compact)
