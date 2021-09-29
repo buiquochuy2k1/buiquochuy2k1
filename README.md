@@ -20,7 +20,7 @@
 <br />
 <br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=buiquochuy2k1&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-283-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-13-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-1286-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=buiquochuy2k1&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-0-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-0-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-5-blueviolet)
 
 
 <hr>
