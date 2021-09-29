@@ -25,6 +25,7 @@
 
 <hr>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=buiquochuy2k1&theme=dracula"></div>
+<hr>
 
 
 
